@@ -240,4 +240,4 @@ This repository serves as the official landing page for RSS Bandit. The software
 **Get the most recent version of RSS Bandit today!**
 
 ---
-**Last updated:** 2026-11-05 22:34:32 UTC
+**Last updated:** 2026-11-06 02:59:08 UTC
